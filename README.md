@@ -1,4 +1,4 @@
-# stepper-component-vue
+# stepper-component-vue with quasar
 
 ### Step-by-step allows rendering of dynamic components in addition to static content
 
